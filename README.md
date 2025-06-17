@@ -1,2 +1,2 @@
 # Thesis_powerBi
-Our output dataset visualization through Powe Bi
+Our output dataset visualization through Power Bi
